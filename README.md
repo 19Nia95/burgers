@@ -1,4 +1,4 @@
 ## Burgers
 
-- [Сайт](https://pages.github.com/) для сети быстрого питания Burger house
+- [Сайт](https://19nia95.github.io/burgers/) для сети быстрого питания Burger house
 - Лендинговый сайт с использованием фреймворка Angular
